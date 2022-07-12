@@ -2,7 +2,7 @@
   "name": "angular-ngx-treeview",
   "version": "13.0.0",
   "license": "MIT",
-  "description": "An Angular treeview component with checkbox",
+  "description": "An Angular treeview component with checkbox: for Angular 13",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
