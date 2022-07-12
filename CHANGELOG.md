@@ -161,3 +161,10 @@ export class TreeviewConfig {
 ### Enhancement:
 
 - Fix error ExpressionChangedAfterItHasBeenCheckedError
+
+# [13.0.2](https://www.npmjs.com/package/ngx-treeview) (2020-07-12)
+
+### Enhancement:
+
+- Upgrade to Angular 13.
+- Upgrade Bootstrap to 5.1.3
