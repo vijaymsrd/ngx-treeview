@@ -6,12 +6,12 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build:lib": "ng build --prod ngx-treeview",
-    "build:demo": "ng build --prod",
+    "build:lib": "ng build --configuration production ngx-treeview",
+    "build:demo": "ng build --configuration production",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href /ngx-treeview/ && node gh-pages.js"
+    "deploy": "ng build --configuration production --base-href /ngx-treeview/ && node gh-pages.js"
   },
   "private": true,
   "keywords": [
